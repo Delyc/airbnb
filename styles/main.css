@@ -1,0 +1,16 @@
+@media (min-width: 481px) and (max-width: 768px){
+   
+
+   .card--body{
+    width: 100%;
+    
+    
+    
+   }
+   .banner{
+    width: 100%;
+   }
+   .arrow, .hrt{
+    right: 5%;
+   }
+}
